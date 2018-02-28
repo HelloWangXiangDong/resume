@@ -172,7 +172,7 @@ progress::-moz-progress-value {
     margin: 0 auto;
     margin-top:20px;
     margin-bottom: 10px;
-    background-image:url('../image/headImage.png');
+    background-image:url('../image/headImage.jpg');
     background-size: 120%;
     background-position:center;
     border-radius:50%;
